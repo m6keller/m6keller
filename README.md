@@ -1,5 +1,5 @@
 - 👋 Hello! I’m Matthew, and I'm a Biomedical Engineering student at the University of Waterloo. 
-- I’m interested in computer vision, biotech, and software in pharmacy and healthcare settings.
+- I’m interested in backend development, computer vision, biotech, and software in pharmacy and healthcare settings.
 - I'm working to expand my skills and experience with machine learning and embedded development.
 - Feel free to reach out to my [LinkedIn](https://www.linkedin.com/in/matthew-keller-5a16001b0/) or [m6keller@uwaterloo.ca](https://outlook.office.com/mail/deeplink/compose?mailtouri=mailto%3Am6keller%40uwaterloo.ca)
 
